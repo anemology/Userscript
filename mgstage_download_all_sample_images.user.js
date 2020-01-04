@@ -25,7 +25,16 @@ function downloadimages(e) {
     e.stopImmediatePropagation();
 
     let pagetitle = document.title;
-    let videonumber = document.querySelector(".detail_data > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(2)").innerHTML;
+    // find video number
+    let videonumberelement;
+    let allths = document.querySelectorAll("th");
+    for (var i = 0; i < allths.length; i++) {
+        if (allths[i].innerHTML == "品番：") {
+            videonumberelement = allths[i].nextElementSibling;
+            break;
+        }
+    }
+    let videonumber = ((videonumberelement) ? videonumberelement.innerHTML : "");
     let downloadpagetitle = videonumber + " " + pagetitle;
 
     let images = document.querySelectorAll("#sample-photo a.sample_image, a.link_magnify");
