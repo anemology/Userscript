@@ -17,7 +17,3 @@ Check the web console to get the url.
 ## Bahamut Disable Lazy Loading
 
 Disable Bahumut image lazy loading in fourms.
-
-## MGStage Download All Sample Images
-
-Download all sample images from [MGStage](https://www.mgstage.com).
