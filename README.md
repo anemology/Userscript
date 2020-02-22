@@ -17,3 +17,7 @@ Check the web console to get the url.
 ## Bahamut Disable Lazy Loading
 
 Disable Bahumut image lazy loading in fourms.
+
+## Twitch Channel Points Auto Click
+
+Auto click channel point button to get 50 points!
