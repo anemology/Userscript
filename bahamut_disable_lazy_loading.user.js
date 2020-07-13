@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Bahamut Disable Lazy Loading
 // @namespace   https://github.com/anemology/Userscript
-// @author      獨孤
+// @author      anemology
 // @version     1
 // @description 停用巴哈姆特的 Lazy Loading
 // @grant       none

@@ -2,7 +2,7 @@
 // @name        Skip Leaving Facebook
 // @namespace   https://github.com/anemology/Userscript
 // @author      anemology
-// @version     1
+// @version     1.0
 // @description Skip leaving Facebook page
 // @grant       none
 // @include     https://www.facebook.com/flx/warn/?u=*

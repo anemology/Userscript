@@ -2,7 +2,7 @@
 // @name        Twitch Channel Points Auto Click
 // @match       https://www.twitch.tv/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      anemology
 // @description 2020/1/19 22:44:29
 // ==/UserScript==

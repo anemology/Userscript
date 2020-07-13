@@ -2,7 +2,7 @@
 // @name        Instagram Full-Size Profile Image
 // @namespace   https://github.com/anemology/Userscript
 // @author      anemology
-// @version     1
+// @version     1.0
 // @description Get the full-size profile image of Instagram
 // @grant       none
 // @include     https://www.instagram.com/*/
