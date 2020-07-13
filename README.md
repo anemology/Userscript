@@ -21,3 +21,7 @@ Disable Bahumut image lazy loading in fourms.
 ## Twitch Channel Points Auto Click
 
 Auto click channel point button to get 50 points!
+
+## Skip Leaving Facebook
+
+Skip leaving Facebook page
