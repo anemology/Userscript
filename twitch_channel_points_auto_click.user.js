@@ -20,6 +20,8 @@ var clickTwitchButton = setInterval(function () {
 }, click_interval * 1000);
 
 function getPoints() {
-    var points = document.querySelector(".tw-core-button--text > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(2)").innerHTML;
+    // var points = document.querySelector(".tw-core-button--text > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(2)").innerHTML;
+    // 2020/06/05 new selector  
+    var points = document.querySelector("div.tw-c-text-alt-2:nth-child(2) > span:nth-child(1)").innerHTML;
     return points;
 }
