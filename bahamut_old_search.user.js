@@ -9,7 +9,7 @@
 // @run-at document-idle
 // ==/UserScript==
 (function () {
-    document.querySelector('#gsc-i-id1').style.display = 'none';
+    document.querySelector('#searchbox').style.display = 'none';
     document.querySelector('#old_search_searchbox').style.display = '';
     var SearchInput = document.getElementById('old_search_input');
     if (SearchInput.value == '') {
