@@ -25,3 +25,7 @@ Auto click channel point button to get 50 points!
 ## Skip Leaving Facebook
 
 Skip leaving Facebook page
+
+## Redirect Wikipedia to desktop version
+
+Since Google search produce the mobile version of wiki result, we need to redirect wiki from mobile version to desktop version.
